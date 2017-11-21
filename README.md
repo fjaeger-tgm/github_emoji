@@ -5,6 +5,7 @@ github emoji
 
 |文件夹|简介|
 |---|---|
+|all|所有emoji，按照api给出的顺序|
 |nation|国旗|
 |github_spce|github特殊的|
 
