@@ -71,6 +71,7 @@
 |es|:es:|
 |ethiopia|:ethiopia:|
 |eu|:eu:|
+|european_union|:european_union:|
 |finland|:finland:|
 |fiji|:fiji:|
 |falkland_islands|:falkland_islands:|
@@ -78,6 +79,7 @@
 |faroe_islands|:faroe_islands:|
 |fr|:fr:|
 |gabon|:gabon:|
+|gb|:gb:|
 |uk|:uk:|
 |grenada|:grenada:|
 |georgia|:georgia:|

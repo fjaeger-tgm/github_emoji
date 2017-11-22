@@ -10,6 +10,7 @@
 |smile|:smile:|
 |sweat_smile|:sweat_smile:|
 |laughing|:laughing:|
+|satisfied|:satisfied:|
 |wink|:wink:|
 |blush|:blush:|
 |yum|:yum:|

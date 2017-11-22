@@ -24,6 +24,7 @@
 |oncoming_police_car|:oncoming_police_car:|
 |taxi|:taxi:|
 |oncoming_taxi|:oncoming_taxi:|
+|car|:car:|
 |red_car|:red_car:|
 |oncoming_automobile|:oncoming_automobile:|
 |blue_car|:blue_car:|

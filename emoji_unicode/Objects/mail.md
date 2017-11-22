@@ -2,6 +2,7 @@
 
 |emoji_name|emoji|
 |---|---|
+|email|:email:|
 |envelope|:envelope:|
 |e-mail|:e-mail:|
 |incoming_envelope|:incoming_envelope:|

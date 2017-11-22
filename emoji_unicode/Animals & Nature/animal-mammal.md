@@ -46,4 +46,5 @@
 |bear|:bear:|
 |koala|:koala:|
 |panda_face|:panda_face:|
+|feet|:feet:|
 |paw_prints|:paw_prints:|

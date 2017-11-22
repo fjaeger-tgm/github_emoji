@@ -19,5 +19,6 @@
 |scream|:scream:|
 |flushed|:flushed:|
 |dizzy_face|:dizzy_face:|
+|pout|:pout:|
 |rage|:rage:|
 |angry|:angry:|

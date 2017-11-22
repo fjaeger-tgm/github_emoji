@@ -24,6 +24,7 @@
 |anger|:anger:|
 |bomb|:bomb:|
 |boom|:boom:|
+|collision|:collision:|
 |sweat_drops|:sweat_drops:|
 |dash|:dash:|
 |dizzy|:dizzy:|

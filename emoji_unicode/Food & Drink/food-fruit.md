@@ -5,6 +5,8 @@
 |grapes|:grapes:|
 |melon|:melon:|
 |watermelon|:watermelon:|
+|mandarin|:mandarin:|
+|orange|:orange:|
 |tangerine|:tangerine:|
 |lemon|:lemon:|
 |banana|:banana:|

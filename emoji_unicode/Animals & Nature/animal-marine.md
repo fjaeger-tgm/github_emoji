@@ -5,6 +5,7 @@
 |whale|:whale:|
 |whale2|:whale2:|
 |dolphin|:dolphin:|
+|flipper|:flipper:|
 |fish|:fish:|
 |tropical_fish|:tropical_fish:|
 |blowfish|:blowfish:|
