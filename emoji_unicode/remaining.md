@@ -1,4 +1,4 @@
-### remaining 
+### remaining(not match the unicode)
 
 |emoji_name|emoji|
 |---|---|
